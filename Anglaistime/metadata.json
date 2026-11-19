@@ -1,0 +1,7 @@
+{
+  "name": "LittleLinguist AI",
+  "description": "A playful, AI-powered English learning companion for children aged 3-5 using Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

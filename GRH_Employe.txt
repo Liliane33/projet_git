@@ -1,0 +1,5 @@
+ID;Nom;Prenom;Salaire;Dte_Embauche;Departement
+1234;Sabri;Aya;9500;25/10/2000;Commercial
+2345;Hafid;Said;15000;01/01/2015;Ressources Humaines
+4553;DIdi;.Hicham; 15000;01/2000;Commercial
+3444;Yahya;Alaoui;20000;01/01/2000;Ressources Humaines
